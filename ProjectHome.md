@@ -1,0 +1,1 @@
+As I have a lot of cameras trying to rename them so they appear in the proper order is quite difficult. So I decided to create a small application that will rename them based on a given set name, shotting date, camera type, etc.
